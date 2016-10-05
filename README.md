@@ -9,13 +9,13 @@ XM-Miner는 기존의 Mining Tool 과는 차별화 된 비즈니스 영역별, �
 + Client:  Window 98/ NT 4.0, Linux
 +	Memory: 64M 이상
 + Java VM: [Java 1.2.2](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase12-419414.html)
-+ Chart: [jcchart.jar](https://github.com/wall72/wall72.github.io/blob/master/files/jcchart.jar)
++ Chart: JCChart
 + JDBC drivers: Oracle, MS-SQL
 
 + 폴더구조  
 ![folder tree](https://github.com/wall72/wall72.github.io/blob/master/images/xmminer_folder.png?raw=true)
 
-+ 실행파일: [XM-MIner.exe](https://github.com/wall72/wall72.github.io/blob/master/files/XM-Miner.exe)
++ Release: [XM-MIner v1.0](https://github.com/wall72/XM-Miner/releases/tag/1.0)
 
 ### 1.2 빌드
 + make.bat 실행
