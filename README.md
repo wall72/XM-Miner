@@ -8,7 +8,7 @@ XM-Miner는 기존의 Mining Tool 과는 차별화 된 비즈니스 영역별, �
 +	Server: Window 98/ NT 4.0, Linux
 + Client:  Window 98/ NT 4.0, Linux
 +	Memory: 64M 이상
-+ Java VM: [Java 1.2.2]("http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase12-419414.html")
++ Java VM: [Java 1.2.2](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase12-419414.html)
 + Chart: [jcchart.jar](https://github.com/wall72/wall72.github.io/blob/master/files/jcchart.jar)
 + JDBC drivers: Oracle, MS-SQL
 
