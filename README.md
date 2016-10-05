@@ -16,6 +16,8 @@ XM-Miner는 기존의 Mining Tool 과는 차별화 된 비즈니스 영역별, �
 ![folder tree](https://github.com/wall72/wall72.github.io/blob/master/images/xmminer_folder.png?raw=true)
 
 + Release: [XM-MIner v1.0](https://github.com/wall72/XM-Miner/releases/tag/1.0)
++ Release: [XM-MIner v1.5](https://github.com/wall72/XM-Miner/releases/tag/1.5)
+(화장품회사 적용 버전으로 일시적으로 NICE-Miner 라고 이름변경됨)
 
 ### 1.2 빌드
 + make.bat 실행
