@@ -2,11 +2,15 @@
 Scenario based Data Mining (Machine Learning) Tool
 
 ## 1.	XM-Miner 개요
-XM-Miner는 기존의 Mining Tool 과는 차별화 된 비즈니스 영역별, 도메인 중심적인 마이닝 도구로서 문제 중심적인 의사결정(Decision Making)과 CRM 전략(Strategy)을 수립하는데 매우 효과 적으로 사용될 수 있다.  
+XM-Miner는 기존의 Mining Tool 과는 차별화 된 비즈니스 영역별, 도메인 중심적인 마이닝 도구로서 문제 중심적인 의사결정(Decision Making)과 CRM 전략(Strategy)을 수립하는데 매우 효과 적으로 사용될 수 있다.
 
-### 1.1 시스템 요구사항
-+	Server: Window 98/ NT 4.0, Linux
-+ Client:  Window 98/ NT 4.0, Linux
+### 1.1 개발 정보
++ 개발시기: 2000 ~ 2001년 초
++ 개발참여: 대우정보시스템, 연세대학교, 충북대학교
+
+### 1.2 시스템 요구사항
++	Server: Windows 98/2000/XP, Linux
++ Client: Windows 98/2000/XP, Linux
 +	Memory: 64M 이상
 + Java VM: [Java 1.2.2](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase12-419414.html)
 + Chart: JCChart
@@ -19,7 +23,7 @@ XM-Miner는 기존의 Mining Tool 과는 차별화 된 비즈니스 영역별, �
 + Release: [XM-Miner v1.5](https://github.com/wall72/XM-Miner/releases/tag/1.5)
 (화장품회사 적용 버전으로 일시적으로 NICE-Miner 라고 이름변경됨)
 
-### 1.2 빌드
+### 1.3 빌드
 + make.bat 실행
 
 ## 2. XM-Miner 구성
